@@ -1,0 +1,68 @@
+.Photo {
+  position: absolute;
+  height: 36%;
+  width: 100%;
+  object-fit: cover;
+  background-size: cover;
+}
+
+.AppleImage {
+  object-fit: Fill;
+  width: 70%;
+  height: 100%;
+  margin-left: 15%;
+}
+
+.FontImage {
+  position: absolute;
+  left: 40%;
+  top: 30%;
+  font-size: 300%;
+  color: white;
+}
+
+.Par1 {
+  position: absolute;
+  top: 37%;
+  padding-left: 10%;
+}
+
+.Par1 p {
+  padding-left: 20px;
+  font-size: 38px;
+}
+.Cooking {
+  position: relative;
+  left: 31%;
+  width: 40%;
+  height: 40%;
+}
+
+.hr1 {
+  position: absolute;
+  top: 80%;
+  width: 97%;
+  left: 8px;
+}
+
+.Par2 {
+  position: absolute;
+  top: 85%;
+  left: 5%;
+  width: 93%;
+  font-size: 30px;
+}
+
+.recipe {
+  position: relative;
+  left: 32%;
+  width: 30%;
+  height: 30%;
+}
+
+.Par3 {
+  font-size: 20px;
+  position: absolute;
+  top: 156%;
+  left: 6%;
+}
